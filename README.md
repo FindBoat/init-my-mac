@@ -20,13 +20,13 @@
 
 ## Config [emacs](https://github.com/FindBoat/.emacs.d)
 ```
-git pull https://github.com/FindBoat/.emacs.d.git
+git clone https://github.com/FindBoat/.emacs.d.git
 ln ~/.emacs.d/.emacs ~/.emacs
-cp ~/.emacs.d/AtlasTypewriter-Regular.otf ~/
+cp ~/.emacs.d/AtlasTypewriter-Regular.otf ~/Desktop
 ```
 Install AtlasTypewriter-Regular.otf
 ```
-rm ~/AtlasTypewriter-Regular.otf
+rm ~/Desktop/AtlasTypewriter-Regular.otf
 ```
 
 ## Install Iterm theme
@@ -35,7 +35,7 @@ rm ~/AtlasTypewriter-Regular.otf
 
 ## Set [fish alias](https://github.com/FindBoat/fish-alias)
 ```
-git pull https://github.com/FindBoat/fish-alias.git
+git clone https://github.com/FindBoat/fish-alias.git
 cp ./config.fish ~/.config/fish/config.fish
 rm -rf fish-alias
 ```
