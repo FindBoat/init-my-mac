@@ -36,7 +36,7 @@ rm ~/Desktop/AtlasTypewriter-Regular.otf
 ## Set [fish alias](https://github.com/FindBoat/fish-alias)
 ```
 git clone https://github.com/FindBoat/fish-alias.git
-cp ./config.fish ~/.config/fish/config.fish
+cp ./fish-alias/config.fish ~/.config/fish/config.fish
 rm -rf fish-alias
 ```
 
