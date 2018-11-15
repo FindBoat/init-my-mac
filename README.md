@@ -17,6 +17,8 @@
 * Xcode
 * Vagrant
 * Fish shell
+* Homebrew
+* VS code
 
 ## Config [emacs](https://github.com/FindBoat/.emacs.d)
 ```
